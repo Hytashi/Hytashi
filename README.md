@@ -2,6 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Hytashi&style=flat-square)
 
-Currently working on Eclazion, a mini-games Minecraft server
+I am currently working on Eclazion, a Minecraft mini-games server
+If you want to learn more about the project: https://discord.eclazion.net/
 
-You can reach me on Discord : Hytashi#7083
+You can reach me on Discord if you need! Hytashi#7083
