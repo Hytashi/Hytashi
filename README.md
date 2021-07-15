@@ -23,7 +23,7 @@ Language & tools
 
 Cool repositories
 ------
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hytashi&repo=CuboidUtils&theme=nord)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Hytashi&repo=CuboidUtils&theme=nord)](https://github.com/Hytashi/CuboidUtils)
 <br><br><br>
 ![](https://komarev.com/ghpvc/?username=Hytashi&style=flat-square)
 
