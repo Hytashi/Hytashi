@@ -5,7 +5,7 @@ About me
 ------
 - :rocket: I am currently working on Eclazion, a Minecraft mini-games server.  
 If you want to learn more about the project: [https://discord.eclazion.net/](https://discord.eclazion.net/)
-- 💬 You can reach me on Discord:  `Hytashi#7083`
+- :milky_way: You can reach me on Discord:  `Hytashi#7083`
 
 Language & tools
 ------
