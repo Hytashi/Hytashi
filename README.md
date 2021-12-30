@@ -16,6 +16,6 @@ Language & tools
 
 Cool repositories
 ------
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Hytashi&repo=CuboidUtils&theme=nord)](https://github.com/Hytashi/CuboidUtils)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Hytashi&repo=Frame&theme=nord)](https://github.com/Hytashi/Frame)
 <br><br><br>
 ![](https://komarev.com/ghpvc/?username=Hytashi&style=flat-square)
