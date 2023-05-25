@@ -11,7 +11,7 @@ If you want to learn more about the project: [https://discord.eclazion.net/](htt
 
 Language & tools
 ------
-[![Languages](https://skillicons.dev/icons?i=java,c,html,css,mongodb,git,github,idea,vercel)](https://github.com/Hytashi)
+[![Languages](https://skillicons.dev/icons?i=java,c,html,css)](https://github.com/Hytashi) <br>
 [![Tools](https://skillicons.dev/icons?i=mongodb,git,github,idea,vercel)](https://github.com/Hytashi)
 
 
