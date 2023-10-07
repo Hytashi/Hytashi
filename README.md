@@ -1,19 +1,15 @@
 
-<h1 align="center">Hi 👋 I'm Hytashi</h1>
+<h1>👋 Hi, I'm Hytashi</h1>
 
 
 About me
 ------
-- :rocket: | I am currently working on Eclazion, a Minecraft mini-games server.  
+:rocket: I am currently working on Eclazion, a Minecraft mini-games server.  
 If you want to learn more about the project: [https://discord.eclazion.net/](https://discord.eclazion.net/)
-- :milky_way: | You can reach me on Discord:  `Hytashi#7083`
 
+:milky_way: Second year Computer Science student
 
-Language & tools
-------
-[![Languages](https://skillicons.dev/icons?i=java,c,html,css)](https://github.com/Hytashi) <br>
-[![Tools](https://skillicons.dev/icons?i=mongodb,github,idea,vercel)](https://github.com/Hytashi)
-
+☕ Java enjoyer
 
 Cool repositories
 ------
