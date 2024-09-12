@@ -6,7 +6,7 @@ About me
 :rocket: I am currently working on Eclazion, a Minecraft mini-games server.  
 If you want to learn more about the project: [https://discord.eclazion.net/](https://discord.eclazion.net/)
 
-:milky_way: Second year Computer Science student
+:milky_way: Third year Computer Science student
 
 ☕ Java enjoyer
 
